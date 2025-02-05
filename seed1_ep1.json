@@ -25,5 +25,6 @@
             1
         ]
     },
-    "seed": 1
+    "seed": 1,
+    "env": "sdf/seed1.txt"
 }
