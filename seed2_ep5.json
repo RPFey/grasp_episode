@@ -21,5 +21,6 @@
         ]
     },
     "seed": 2,
+    "initial": "initial/seed2.png",
     "env": "sdf/seed2.txt"
 }

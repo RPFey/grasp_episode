@@ -36,5 +36,6 @@
         ]
     },
     "seed": 3,
+    "initial": "initial/seed3.png",
     "env": "sdf/seed3.txt"
 }

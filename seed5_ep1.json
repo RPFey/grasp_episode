@@ -66,5 +66,6 @@
         ]
     },
     "seed": 5,
+    "initial": "initial/seed5.png",
     "env": "sdf/seed5.txt"
 }
