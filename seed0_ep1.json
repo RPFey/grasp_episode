@@ -1,5 +1,30 @@
 {
-    "target": "Yellow Banana.",
+    "prompt": {
+        "points": [
+            [
+                317,
+                294
+            ],
+            [
+                319,
+                322
+            ],
+            [
+                347,
+                295
+            ],
+            [
+                364,
+                303
+            ]
+        ],
+        "labels": [
+            1,
+            1,
+            1,
+            1
+        ]
+    },
     "seed": 0,
     "initial": "initial/seed0.png",
     "env": "sdf/seed0.txt"

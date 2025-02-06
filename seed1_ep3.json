@@ -1,24 +1,6 @@
 {
-    "prompt": {
-        "points": [
-            [
-                344,
-                483
-            ],
-            [
-                359,
-                476
-            ],
-            [
-                367,
-                462
-            ]
-        ],
-        "labels": [
-            1,
-            1,
-            1
-        ]
-    },
-    "seed": 1
+    "target": "Strawberry.",
+    "seed": 1,
+    "initial": "initial/seed1.png",
+    "env": "sdf/seed1.txt"
 }
