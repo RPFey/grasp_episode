@@ -1,5 +1,30 @@
 {
-    "target": "Wooden Hammer.",
+    "prompt": {
+        "points": [
+            [
+                345,
+                457
+            ],
+            [
+                387,
+                389
+            ],
+            [
+                431,
+                321
+            ],
+            [
+                471,
+                263
+            ]
+        ],
+        "labels": [
+            1,
+            1,
+            1,
+            1
+        ]
+    },
     "seed": 0,
     "initial": "initial/seed0.png",
     "env": "sdf/seed0.txt"
