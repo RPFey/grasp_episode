@@ -17,7 +17,6 @@
     <collision concave="yes">
       <origin rpy="1.5707963 0 0"/>
       <geometry>
-        
         <mesh filename="box.obj" scale="0.015 0.005 0.015"/>
       </geometry>
     </collision>
